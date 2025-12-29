@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Siri</h1>
+<h3 align="center">Full Stack / AI Developer</h3>
 
-<!--
-**siri-s5/siri-s5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Turning ideas into powerful digital experiences
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 BTech Student (3rd Year)
+- 🤖 Interested in AI & Generative AI
+- 💻 Building real-world projects
+- 🌱 Currently learning Python, ML, Web Dev
+
+---
+
+### 🛠️ Skills
+- Python
+- HTML, CSS, JavaScript
+- Git & GitHub
+- Basics of AI / ML
+
+---
+
+### 📫 Contact Me
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: yourmail@gmail.com
