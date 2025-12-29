@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Siri</h1>
-<h3 align="center">Full Stack / AI Developer</h3>
+<h3 align="center">Front-end / Web Developer</h3>
 
 <p align="center">
 Turning ideas into powerful digital experiences
@@ -10,7 +10,7 @@ Turning ideas into powerful digital experiences
 ### 🚀 About Me
 - 🎓 BTech Student (3rd Year)
 - 🤖 Interested in AI & Generative AI
-- 💻 Building real-world projects
+- 💻 Learning about Building real-world projects
 - 🌱 Currently learning Python, ML, Web Dev
 
 ---
@@ -24,5 +24,5 @@ Turning ideas into powerful digital experiences
 ---
 
 ### 📫 Contact Me
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: yourmail@gmail.com
+- LinkedIn: https://www.linkedin.com/in/siri-chepuri-987a2934a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Email: chepurisiri5@gmail.com
