@@ -18,7 +18,3 @@ I’m a passionate Computer Science student who enjoys building clean, user-frie
 ## 📫 Contact
 **LinkedIn:** https://www.linkedin.com/in/siri-chepuri-987a2934a  
 **Email:** chepurisiri5@gmail.com  
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=siri-s5&show_icons=true&theme=default" height="150" />
-</p>
