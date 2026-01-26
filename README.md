@@ -17,4 +17,3 @@ I’m a passionate Computer Science student who enjoys building clean, user-frie
 
 ## 📫 Contact
 **LinkedIn:** https://www.linkedin.com/in/siri-chepuri-987a2934a  
-**Email:** chepurisiri5@gmail.com  
